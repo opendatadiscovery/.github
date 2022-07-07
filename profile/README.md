@@ -1,5 +1,5 @@
 ### Welcome
-Hi! It is an ODD team. We develop an open-source Platfrom, which improves productivity, collaboration, and governance of modern data products and teams. 
+Hi! It is ODD team. We develop an open-source Platfrom, which improves productivity, collaboration, and governance of modern data products and teams. 
 ### Explore the Platform
 [Homepage](https://opendatadiscovery.org/) | [Deployment guide](https://github.com/opendatadiscovery/odd-platform/tree/main/docker) | [Spec](https://github.com/opendatadiscovery/opendatadiscovery-specification/blob/main/specification/specification.md) | [Blog posts](https://medium.com/opendatadiscovery) | [Slack](https://go.opendatadiscovery.org/slack) 
 ### Community and Contribution
